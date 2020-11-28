@@ -16,3 +16,5 @@ If the user press 3, Prompt the user for the date then print the pressure of the
 If the user press 0, Terminate the program.
 
 The program should not terminate until the user press 0
+
+## Configure Build Path for the json_simple.jar file.
